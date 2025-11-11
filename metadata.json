@@ -1,0 +1,7 @@
+{
+  "name": "Copy of InkedIn: Global Tattoo Network",
+  "description": "A revolutionary social network connecting tattoo artists, studios, and clients worldwide. Discover artists, book appointments, and generate unique tattoo ideas with the power of AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
